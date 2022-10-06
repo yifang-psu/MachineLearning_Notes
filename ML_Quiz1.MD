@@ -3,7 +3,7 @@
 #### Clustering, Classification, Naive Bayes
 
 1. High entropy means that the partitions in classification are:
-A. pure
-B. not pure
-C. useful
-D. useless
+[a] pure
+[b] not pure
+[c] useful
+[d] useless
