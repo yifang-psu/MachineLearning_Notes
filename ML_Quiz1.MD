@@ -22,20 +22,20 @@
 [a] Decision Tree <br/>
 [b] Linear Regression <br/>
 [c] Naive Bayesian <br/>
-[d] PCA <br/>
+**[d] PCA** <br/>
     
     Answer: [d]: PCA. Principal Component Analysis (PCA) is not predictive analysis tool. It is a data pre-processing tool. It helps in picking out the most relevant linear combination of variables and use them in our predictive model. PCA is a technique for reducing the dimensionality of large datasets, increasing interpretability but at the same time minimizing information loss. 
 
-4. Which of the following statements about Naive Bayes is incorrect? <br/>
+4. Which of the following statements about Naive Bayes is **incorrect**? <br/>
 [a] Attributes can be nominal or numeric <br/>
-[b] Attributes are statistically dependent of one another given the class value. <br/>
+**[b] Attributes are statistically dependent of one another given the class value.** <br/>
 [c] Attributes are statistically independent of one another given the class value. <br/>
 [d] Attributes are equally important. <br/>
 
     Answer: [b]: Attributes are statistically dependent of one another given the class value. Naïve Bayes classifier assumes conditional independence between attributes and assigns the MAP class to new instances. Naive Bayes is a classification algorithm for binary (two-class) and multi-class classification problems. The technique is easiest to understand when described using binary or categorical input values.It is called naive Bayes because the calculation of the probabilities for each hypothesis are simplified to make their calculation tractable. Rather than attempting to calculate the values of each attribute value $P(d1, d2, d3|h)$, they are assumed to be conditionally independent given the target value and calculated as $P(d1|h) * P(d2|H)$ and so on.
     
 5. Suppose we would like to perform clustering on spatial data such as the geometrical locations of houses. We wish to produce clusters of many different sizes and shapes. Which of the following methods is the most appropriate? <br/>
-[a] Density-based clustering <br/>
+**[a] Density-based clustering** <br/>
 [b] Model-based clustering <br/>
 [c] K-means clustering <br/>
 [d] Decision Trees <br/>  
