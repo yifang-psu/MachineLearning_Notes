@@ -3,7 +3,7 @@
 #### Clustering, Classification, Naive Bayes
 
 1. High entropy means that the partitions in classification are: <br/>
-[a] not pure <br/>
+**[a] not pure** <br/>
 [b] pure <br/>
 [c] useful <br/>
 [d] useless <br/>
@@ -14,7 +14,7 @@
 [a] 9 <br/>
 [b] 16 <br/>
 [c] 144 <br/>
-[d] 216 <br/>
+**[d] 216** <br/>
 
     Answer: [d]: 216. Maximum possible different examples are the products of the possible values of each attribute and the number of classes: $3 * 3 * 4 * 6 = 216$.
 
