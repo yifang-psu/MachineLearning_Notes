@@ -16,4 +16,4 @@
 [c] 144 <br/>
 [d] 216 <br/>
 
-    Answer: [d]. Maximum possible different examples are the products of the possible values of each attribute and the number of classes: $3 x 3 x 3 x 6 = 72$ .
+    Answer: [d]. Maximum possible different examples are the products of the possible values of each attribute and the number of classes: $3 * 3 * 4 * 6 = 72$ .
