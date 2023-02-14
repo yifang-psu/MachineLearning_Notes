@@ -29,7 +29,7 @@
 - [x] Enforces access control lists on clusters, notebooks, tables and views. Enforces data constraints to satisfy business requirements. Enforces access control lists on tables and views.
 
 10. **The Databricks Lakehouse Platform is built on top of some of the world's most successful open-source data projects. Which of the following open source projects were originally created by Databricks and come as managed versions in the Databricks Lakehouse Platform?**
--[] Delta Lake, MLflow, Koalas
+- [x] Delta Lake, MLflow, Koalas
 
 11. **What describes how the Databricks Lakehouse Platform functions within an organization, at a high level?**
 - [x] A variety of data types land in an organization's open data lake. Delta Lake augments that data lake by providing structure and governance to that data. That data is then used by data practitioners for their data use cases.
