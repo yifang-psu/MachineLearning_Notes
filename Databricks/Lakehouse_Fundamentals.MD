@@ -1,5 +1,5 @@
 1. What is the access point to the Databricks Lakehouse Platform for machine learning practitioners?
-[ ] Databricks Machine Learning
+-[ ] Databricks Machine Learning
 
 2. What are the primary services that comprise the Databricks Lakehouse Platform?
 -[] Databricks SQL, Databricks Machine Learning, Databricks Data Science and Data Engineering Workspace
