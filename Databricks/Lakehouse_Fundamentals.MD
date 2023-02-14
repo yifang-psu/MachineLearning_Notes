@@ -1,11 +1,14 @@
 1. **What is the access point to the Databricks Lakehouse Platform for machine learning practitioners?**
 - [x] Databricks Machine Learning
 
+
 2. **What are the primary services that comprise the Databricks Lakehouse Platform?**
 - [x] Databricks SQL, Databricks Machine Learning, Databricks Data Science and Data Engineering Workspace
 
+
 3. **One of the key features delivered by the Databricks Lakehouse platform is data schema enforcement. What describes data schema enforcement?**
 - [x] It ensures data quality by rejecting writes to a data table that do not match the way that data is structured and organized in that table
+
 
 4. **What does the Databricks Lakehouse Platform provide to data teams?**
 - [x] A completely open-source environment that guarantees seamless integration with the existing tools being used by an organization
