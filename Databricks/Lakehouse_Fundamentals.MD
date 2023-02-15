@@ -14,10 +14,10 @@
 - [x] One centralized user interface so that data practitioners work in the same environment
 
 5. **The Databricks Lakehouse Platform includes tailored user interfaces for which personas?**
-- [x] Data analysts, machine learning practitioners, data engineers
+- [ ] Data analysts, machine learning practitioners, data engineers
 - [ ] Data architects, data analysts, and IT administrators
 - [ ] Data analysts, data scientists, and database architects
-- [ ] Platform administrators, data engineers, and data scientists
+- [x] Platform administrators, data engineers, and data scientists
 
 6. **The Databricks Lakehouse Platform is built on top of some of the world's most successful open-source data projects. Which open source projects were originally created by Databricks and come as managed versions in the Databricks Lakehouse Platform?**
 - [x] Apache Spark, Alchemist, MLflow
