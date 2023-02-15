@@ -144,7 +144,7 @@
 - [ ] Apache Spark, Alchemist, MLflow
 - [ ] Apache Spark, Delta Lake, Redash
 - [ ] Apache Spark, Apache Airflow, Alchemist
-- [ ] Apache Spark, Apache Airflow, Delta Lake
+- [ ] Apache Spark, Apache Airflow, Delta Lake (no)
 - [ ] Apache Spark, Alchemist, MLflow
 
 25. **What describes how the Databricks Lakehouse Platform functions within an organization, at a high level?**
