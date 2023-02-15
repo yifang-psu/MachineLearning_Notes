@@ -121,7 +121,7 @@
 21. **What does the Databricks Lakehouse Platform provide to data teams?**
 - [ ] One centralized user interface so that data practitioners work in the same environment
 - [ ] A completely open-source environment that guarantees seamless integration with the existing tools being used by an organization
-- [x] A toolset of compatible, open-source technologies to streamline collaboration among team members, depending on their role
+- [x] A toolset of compatible, open-source technologies to streamline collaboration among team members, depending on their role (yes)
 - [ ] An environment called a Lakehouse, which combines elements from data lakes and EDSS system
 
 22. **What is true about an organization's data when they use Databricks?**
