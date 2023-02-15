@@ -55,7 +55,7 @@
 10. **What are the primary services that comprise the Databricks Lakehouse Platform?**
 - [ ] Unity Catalog, Databricks Notebooks, Databricks Repos (no)
 - [ ] Databricks SQL, Apache Spark, Delta Lake (no)
-- [x] Databricks SQL, Databricks Machine Learning, Databricks Data Science and Data Engineering Workspace
+- [x] Databricks SQL, Databricks Machine Learning, Databricks Data Science and Data Engineering Workspace (yes)
 - [ ] Delta Lake, Apache Spark, Databricks Security & Governance (no)
 
 11. **One of the key features delivered by the Databricks Lakehouse platform is ACID transactions. What describes ACID transactions?**
@@ -71,10 +71,10 @@
 - [ ] It guarantees data freshness by eliminating duplicative data found within a database
 
 13. **What is true about data stored by Databricks clusters?**
-- [ ] It is stored in the organization's cloud account
-- [ ] It requires customer-supplied keys and certificates in order to maximize security
+- [x] It is stored in the organization's cloud account (yes)
+- [ ] It requires customer-supplied keys and certificates in order to maximize security (no)
 - [ ] It is always encrypted without having to worry about key and certificate management (no)
-- [ ] It is not encrypted since it cannot be accessed by anyone on the outside
+- [ ] It is not encrypted since it cannot be accessed by anyone on the outside (no)
 
 14. **What is the access point to the Databricks Lakehouse platform for business analysts?**
 - [ ] Databricks Machine Learning (no)
@@ -131,9 +131,9 @@
 - [ ] Organizations must encrypt data to maximize security
 
 23. **Delta Lake ensures data governance through Unity Catalog. What does this refer to?**
-- [x] Enforces access control lists on clusters, notebooks, tables and views. (no?)
+- [ ] Enforces access control lists on clusters, notebooks, tables and views. (no)
 - [ ] Enforces data constraints to satisfy business requirements. (no)
-- [ ] Enforces access control lists on tables and views.
+- [x] Enforces access control lists on tables and views. (yes)
 - [ ] Enforces access control lists on clusters and notebooks
 
 24. **The Databricks Lakehouse Platform is built on top of some of the world's most successful open-source data projects. Which of the following open source projects were originally created by Databricks and come as managed versions in the Databricks Lakehouse Platform?**
