@@ -142,6 +142,10 @@
 - [ ] MLflow, Redash, GitLab
 - [ ] Docker, Redash, Cloudera
 - [ ] Apache Spark, Alchemist, MLflow
+- [ ] Apache Spark, Delta Lake, Redash
+- [ ] Apache Spark, Apache Airflow, Alchemist
+- [ ] Apache Spark, Apache Airflow, Delta Lake
+- [ ] Apache Spark, Alchemist, MLflow
 
 25. **What describes how the Databricks Lakehouse Platform functions within an organization, at a high level?**
 - [x] A variety of data types land in an organization's open data lake. Delta Lake augments that data lake by providing structure and governance to that data. That data is then used by data practitioners for their data use cases.
@@ -185,22 +189,8 @@
 - [x] It is the storage format that data is put into that integrates with all data processing engines used within an organization
 - [ ] It helps data engineering teams simplify ETL development and management with declarative pipeline development, automatic data testing, and deep visibility for monitoring and recovery
 
-
-Apache Spark, Delta Lake, Redash
-
-Apache Spark, Apache Airflow, Alchemist
-
-Apache Spark, Apache Airflow, Delta Lake
-
-Apache Spark, Alchemist, MLflow
-
-What does Databricks Data Science and Engineering Workspace allow data practitioners to do?
-
-
-Use MLflow to explore and develop features to include in machine learning model development
-
-Use a specialized query interface to view all queries and dashboards created within an organization
-
-Integrate Databricks notebooks into a CI/CD workflow with Databricks Repos and Databricks Workflows
-
-Build a centralized repository and registry for features, or input variables, for machine learning models
+32. **What does Databricks Data Science and Engineering Workspace allow data practitioners to do?**
+- [] Use MLflow to explore and develop features to include in machine learning model development
+- [] Use a specialized query interface to view all queries and dashboards created within an organization
+- [x] Integrate Databricks notebooks into a CI/CD workflow with Databricks Repos and Databricks Workflows
+- [] Build a centralized repository and registry for features, or input variables, for machine learning models
