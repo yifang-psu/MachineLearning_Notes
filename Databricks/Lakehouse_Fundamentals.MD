@@ -117,6 +117,9 @@
 
 1. **What is the access point to the Databricks Lakehouse Platform for machine learning practitioners?**
 - [x] Databricks Machine Learning
+- [ ] Databricks SQL
+- [ ] Databricks Delta Lake
+- [ ] Databricks Data Science and Engineering Workspace
 
 2. **What are the primary services that comprise the Databricks Lakehouse Platform?**
 - [x] Databricks SQL, Databricks Machine Learning, Databricks Data Science and Data Engineering Workspace
