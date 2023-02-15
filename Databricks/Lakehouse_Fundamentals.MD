@@ -1,5 +1,5 @@
 1. **The Databricks Lakehouse Platform includes tailored user interfaces for which personas?**
-- [x] Data analysts, machine learning practitioners, data engineers
+- [x] Data analysts, machine learning practitioners, data engineers (yes)
 - [ ] Data architects, data analysts, and IT administrators
 - [ ] Data analysts, data scientists, and database architects
 - [ ] Platform administrators, data engineers, and data scientists (no)
