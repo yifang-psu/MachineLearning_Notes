@@ -193,3 +193,14 @@ Apache Spark, Apache Airflow, Alchemist
 Apache Spark, Apache Airflow, Delta Lake
 
 Apache Spark, Alchemist, MLflow
+
+What does Databricks Data Science and Engineering Workspace allow data practitioners to do?
+
+
+Use MLflow to explore and develop features to include in machine learning model development
+
+Use a specialized query interface to view all queries and dashboards created within an organization
+
+Integrate Databricks notebooks into a CI/CD workflow with Databricks Repos and Databricks Workflows
+
+Build a centralized repository and registry for features, or input variables, for machine learning models
