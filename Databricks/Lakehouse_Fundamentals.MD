@@ -118,9 +118,6 @@
 - [ ] Databricks Delta Lake
 - [ ] Databricks Data Science and Engineering Workspace
 
-3. **One of the key features delivered by the Databricks Lakehouse platform is data schema enforcement. What describes data schema enforcement?**
-- [x] It ensures data quality by rejecting writes to a data table that do not match the way that data is structured and organized in that table
-
 4. **What does the Databricks Lakehouse Platform provide to data teams?**
 - [x] One centralized user interface so that data practitioners work in the same environment
 - [ ] A completely open-source environment that guarantees seamless integration with the existing tools being used by an organization
