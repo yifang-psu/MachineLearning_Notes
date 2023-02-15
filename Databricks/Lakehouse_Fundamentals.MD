@@ -28,9 +28,6 @@
 - [ ] It provides organizations with out-of-the-box solutions for managing IT infrastructure and is primarily aimed at IT administrators
 - [ ] It provides organizations with open data lakes and robust data warehouses, primarily aimed at administrators of big data infrastructure
 
-19. **One of the key features delivered by the Databricks Lakehouse platform is ACID transactions. What describes ACID transactions?**
-- [x] They are data structures that organize data into a 2-dimensional table of rows and columns, much like a spreadsheet.
-
 20. **Delta Lake improves data performance through indexing. What does this refer to?**
 - [ ] Ensuring that data can only be accessed by users who should have access
 - [ ] Ordering table data to maximize query efficiency
@@ -150,9 +147,6 @@
 - [ ] Streaming data lands in multiple data warehouses. It is filtered through Delta Lake, which determines which data warehouse the data should be kept in. That data is then used by data practitioners for their data use cases.
 - [ ] Real-time data is captured in Delta Lake and ultimately lands in an organization’s data warehouse. That data is then used by data practitioners for their data use cases.
 - [ ] Structured, semi-structured, and unstructured data are captured in Delta Lake. The data is then passed to a data lake, where it is given structure and munged for quality. That data is then used by data practitioners for their data use
-
-12. **What is the access point to the Databricks Lakehouse platform for business analysts?**
-- [x] Databricks 
 
 13. **The Lakehouse was created by combining the most useful elements of which data management strategies?**
 - [x] Data lakes and data warehouses
