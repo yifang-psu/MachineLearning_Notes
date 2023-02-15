@@ -5,15 +5,15 @@
 - [x] Platform administrators, data engineers, and data scientists
 
 2. **Which statement holistically describes a Lakehouse?**
-- [x] It is the latest data management paradigm that combines elements from data warehouses and data lakes
-- [ ] It is a unified analytics platform used for data management, processing, and analytics
+- [ ] It is the latest data management paradigm that combines elements from data warehouses and data lakes
+- [x] It is a unified analytics platform used for data management, processing, and analytics
 - [ ] It is an established data management tool that houses primarily unstructured data
 - [ ] It is a relatively new data management system that stores all data in its raw state
 
 3. **Which statement is true about commands run from Databricks Databricks Data Science and Engineering Workspace?**
 - [ ] They are executed by clusters
 - [ ] They are executed in the Databricks control plane
-- [ ] They are executed by endpoints
+- [x] They are executed by endpoints
 - [ ] They are executed by your web browser
 
 4. **Which scenario would be best tackled using Databricks Machine Learning?**
@@ -30,7 +30,7 @@
 
 6. **Delta Lake improves data performance through indexing. What does this refer to?**
 - [ ] Ensuring that data can only be accessed by users who should have access
-- [ ] Ordering table data to maximize query efficiency
+- [x] Ordering table data to maximize query efficiency
 - [ ] Structuring queries to act as if they are performed in a single operation
 - [ ] Enforcing data constraints to satisfy business requirements
 
@@ -44,41 +44,41 @@
 - [ ] It is one of the core services of the Lakehouse Platform, tailored towards data practitioners who need to query data and publish visual insights
 - [ ] It is one of the core services of the Lakehouse Platform, tailored towards data practitioners who need to manage users and workspace governance
 - [ ] It is one of the core services of the Lakehouse Platform, tailored towards data practitioners building data pipelines to make data available to everyone in an organization
-- [ ] It is one of the core services of the Lakehouse Platform, tailored towards data practitioners building and managing machine learning models
+- [x] It is one of the core services of the Lakehouse Platform, tailored towards data practitioners building and managing machine learning models
 
 9. **What is the access point to the Databricks Lakehouse Platform for machine learning practitioners?**
 - [ ] Databricks Data Science and Engineering Workspace
 - [ ] Databricks Delta Lake
-- [ ] Databricks Machine Learning
+- [x] Databricks Machine Learning
 - [ ] Databricks SQL
 
 10. **What are the primary services that comprise the Databricks Lakehouse Platform?**
 - [ ] Unity Catalog, Databricks Notebooks, Databricks Repos
 - [ ] Databricks SQL, Apache Spark, Delta Lake
-- [ ] Databricks SQL, Databricks Machine Learning, Databricks Data Science and Data Engineering Workspace
+- [x] Databricks SQL, Databricks Machine Learning, Databricks Data Science and Data Engineering Workspace
 - [ ] Delta Lake, Apache Spark, Databricks Security & Governance
 
 11. **One of the key features delivered by the Databricks Lakehouse platform is ACID transactions. What describes ACID transactions?**
-- [ ] They ensure that data never falls into an inconsistent state because of an operation that only partially completes
+- [x] They ensure that data never falls into an inconsistent state because of an operation that only partially completes
 - [ ] They identify rare events or observations in data which are statistically different from the rest of the observations
 - [ ] They are data structures that organize data into a 2-dimensional table of rows and columns, much like a spreadsheet
 - [ ] They supervise data transactions to ensure that data is not being misused
 
 12. **One of the key features delivered by the Databricks Lakehouse platform is data schema enforcement. What describes data schema enforcement?**
 - [ ] It guarantees data freshness by limiting the data that lands in an organization's open data lake, based on whether or not it is GDPR compliant
-- [ ] It ensures data quality by rejecting writes to a data table that do not match the way that data is structured and organized in that table
+- [x] It ensures data quality by rejecting writes to a data table that do not match the way that data is structured and organized in that table
 - [ ] It ensures data quality by rejecting data ingestion into an organization if a dataset's metadata doesn't contain adequate details, as defined by an organization
 - [ ] It guarantees data freshness by eliminating duplicative data found within a database
 
 13. **What is true about data stored by Databricks clusters?**
 - [ ] It is stored in the organization's cloud account
 - [ ] It requires customer-supplied keys and certificates in order to maximize security
-- [ ] It is always encrypted without having to worry about key and certificate management
+- [x] It is always encrypted without having to worry about key and certificate management
 - [ ] It is not encrypted since it cannot be accessed by anyone on the outside
 
 14. **What is the access point to the Databricks Lakehouse platform for business analysts?**
-- [ ] Databricks Machine Learning
-- [x] Databricks SQL
+- [x] Databricks Machine Learning
+- [ ] Databricks SQL
 - [ ] Databricks Data Science and Engineering Workspace
 - [ ] Databricks Delta Lake
 
@@ -89,14 +89,14 @@
 - [x] Databricks Delta Lake
 
 16. **Which scenario would be best tackled using Data Science and Engineering Workspace?**
-- [ ] Using Databricks Notebooks to collaborate with team members in a variety of programming languages
+- [x] Using Databricks Notebooks to collaborate with team members in a variety of programming languages
 - [ ] Tracking and comparing the results of machine learning experiments
 - [ ] Creating a dashboard that will alert business managers of important changes in daily sales revenue
 - [ ] Setting up access controls to limit data visibility to a particular group within an organization
 
 17. **Delta Lake ensures data quality by enabling an organization to do what?**
 - [ ] Providing access to data to only those who should have access
-- [ ] Applying constraints on the data to ensure that expectations will be met
+- [x] Applying constraints on the data to ensure that expectations will be met
 - [ ] Structuring queries to act as if they are performed in a single operation
 - [ ] Ordering table data
 
@@ -119,25 +119,25 @@
 - [ ] Databricks Data Science and Engineering Workspace
 
 21. **What does the Databricks Lakehouse Platform provide to data teams?**
-- [x] One centralized user interface so that data practitioners work in the same environment
+- [ ] One centralized user interface so that data practitioners work in the same environment
 - [ ] A completely open-source environment that guarantees seamless integration with the existing tools being used by an organization
-- [ ] A toolset of compatible, open-source technologies to streamline collaboration among team members, depending on their role
+- [x] A toolset of compatible, open-source technologies to streamline collaboration among team members, depending on their role
 - [ ] An environment called a Lakehouse, which combines elements from data lakes and EDSS system
 
 22. **What is true about an organization's data when they use Databricks?**
-- [ ] Data that is stored while it's being processed by Databricks is always encrypted
+- [x] Data that is stored while it's being processed by Databricks is always encrypted
 - [ ] Data is always stored in their cloud account
 - [ ] Data is always stored in the Databricks cloud account
 - [ ] Organizations must encrypt data to maximize security
 
 23. **Delta Lake ensures data governance through Unity Catalog. What does this refer to?**
-- [ ] Enforces access control lists on clusters, notebooks, tables and views. 
+- [x] Enforces access control lists on clusters, notebooks, tables and views. 
 - [ ] Enforces data constraints to satisfy business requirements. 
 - [ ] Enforces access control lists on tables and views.
 - [ ] Enforces access control lists on clusters and notebooks
 
 24. **The Databricks Lakehouse Platform is built on top of some of the world's most successful open-source data projects. Which of the following open source projects were originally created by Databricks and come as managed versions in the Databricks Lakehouse Platform?**
-- [ ] Delta Lake, MLflow, Koalas
+- [x] Delta Lake, MLflow, Koalas
 - [ ] Delta Lake, Docker, Cloudera
 - [ ] MLflow, Redash, GitLab
 - [ ] Docker, Redash, Cloudera
@@ -156,7 +156,7 @@
 - [ ] EDSS and OLAP systems
 
 27. **Which statement is true about queries run from Databricks SQL?**
-- [ ] They automatically connect to business intelligence tools without the need for additional configuration.
+- [x] They automatically connect to business intelligence tools without the need for additional configuration.
 - [ ] They pass through Delta Lake to ensure that data being retrieved is relevant for use-cases being studied
 - [ ] They connect directly to an organization’s Delta Lake without using drivers
 - [ ] They are based on two concepts known as experiments and runs
@@ -182,5 +182,5 @@
 31. **What defines Delta Lake?**
 - [ ] It is a fine-grained, centralized security model for data lakes across clouds that enables users to share, audit, and manage structured and unstructured data
 - [ ] It is an open protocol for secure real-time exchange of large datasets, which enables secure data sharing across products for the first time
-- [ ] It is the storage format that data is put into that integrates with all data processing engines used within an organization
+- [x] It is the storage format that data is put into that integrates with all data processing engines used within an organization
 - [ ] It helps data engineering teams simplify ETL development and management with declarative pipeline development, automatic data testing, and deep visibility for monitoring and recovery
