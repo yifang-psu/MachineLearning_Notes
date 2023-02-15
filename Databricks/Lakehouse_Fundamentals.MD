@@ -1,19 +1,19 @@
 1. **The Databricks Lakehouse Platform includes tailored user interfaces for which personas?**
-- [ ] Data analysts, machine learning practitioners, data engineers
+- [x] Data analysts, machine learning practitioners, data engineers
 - [ ] Data architects, data analysts, and IT administrators
 - [ ] Data analysts, data scientists, and database architects
-- [x] Platform administrators, data engineers, and data scientists
+- [ ] Platform administrators, data engineers, and data scientists (no)
 
 2. **Which statement holistically describes a Lakehouse?**
-- [ ] It is the latest data management paradigm that combines elements from data warehouses and data lakes
-- [x] It is a unified analytics platform used for data management, processing, and analytics
+- [x] It is the latest data management paradigm that combines elements from data warehouses and data lakes (?)
+- [ ] It is a unified analytics platform used for data management, processing, and analytics (no)
 - [ ] It is an established data management tool that houses primarily unstructured data
 - [ ] It is a relatively new data management system that stores all data in its raw state
 
 3. **Which statement is true about commands run from Databricks Databricks Data Science and Engineering Workspace?**
 - [ ] They are executed by clusters
 - [ ] They are executed in the Databricks control plane
-- [x] They are executed by endpoints
+- [x] They are executed by endpoints (yes)
 - [ ] They are executed by your web browser
 
 4. **Which scenario would be best tackled using Databricks Machine Learning?**
@@ -59,7 +59,7 @@
 - [ ] Delta Lake, Apache Spark, Databricks Security & Governance
 
 11. **One of the key features delivered by the Databricks Lakehouse platform is ACID transactions. What describes ACID transactions?**
-- [x] They ensure that data never falls into an inconsistent state because of an operation that only partially completes
+- [x] They ensure that data never falls into an inconsistent state because of an operation that only partially completes (yes)
 - [ ] They identify rare events or observations in data which are statistically different from the rest of the observations
 - [ ] They are data structures that organize data into a 2-dimensional table of rows and columns, much like a spreadsheet
 - [ ] They supervise data transactions to ensure that data is not being misused
@@ -73,20 +73,20 @@
 13. **What is true about data stored by Databricks clusters?**
 - [ ] It is stored in the organization's cloud account
 - [ ] It requires customer-supplied keys and certificates in order to maximize security
-- [x] It is always encrypted without having to worry about key and certificate management
+- [ ] It is always encrypted without having to worry about key and certificate management (no)
 - [ ] It is not encrypted since it cannot be accessed by anyone on the outside
 
 14. **What is the access point to the Databricks Lakehouse platform for business analysts?**
-- [x] Databricks Machine Learning
+- [ ] Databricks Machine Learning (no)
 - [ ] Databricks SQL
 - [ ] Databricks Data Science and Engineering Workspace
 - [ ] Databricks Delta Lake
 
 15. **What is the access point to the Databricks Lakehouse platform for data engineers?**
-- [ ] Databricks SQL
+- [ ] Databricks SQL 
 - [ ] Databricks Data Science and Engineering Workspace
 - [ ] Databricks Machine Learning
-- [x] Databricks Delta Lake
+- [ ] Databricks Delta Lake (no)
 
 16. **Which scenario would be best tackled using Data Science and Engineering Workspace?**
 - [x] Using Databricks Notebooks to collaborate with team members in a variety of programming languages
@@ -96,7 +96,7 @@
 
 17. **Delta Lake ensures data quality by enabling an organization to do what?**
 - [ ] Providing access to data to only those who should have access
-- [x] Applying constraints on the data to ensure that expectations will be met
+- [x] Applying constraints on the data to ensure that expectations will be met (yes)
 - [ ] Structuring queries to act as if they are performed in a single operation
 - [ ] Ordering table data
 
@@ -192,5 +192,5 @@
 32. **What does Databricks Data Science and Engineering Workspace allow data practitioners to do?**
 - [] Use MLflow to explore and develop features to include in machine learning model development
 - [] Use a specialized query interface to view all queries and dashboards created within an organization
-- [x] Integrate Databricks notebooks into a CI/CD workflow with Databricks Repos and Databricks Workflows
+- [x] Integrate Databricks notebooks into a CI/CD workflow with Databricks Repos and Databricks Workflows (yes)
 - [] Build a centralized repository and registry for features, or input variables, for machine learning models
