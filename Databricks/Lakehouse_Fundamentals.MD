@@ -153,6 +153,9 @@
 
 13. **The Lakehouse was created by combining the most useful elements of which data management strategies?**
 - [x] Data lakes and data warehouses
+- [ ] Data lakes and network databases
+- [ ] Data warehouses and EDSS systems
+- [ ] EDSS and OLAP systems
 
 14. **Which statement is true about queries run from Databricks SQL?**
 - [x] They automatically connect to business intelligence tools without the need for additional configuration.
