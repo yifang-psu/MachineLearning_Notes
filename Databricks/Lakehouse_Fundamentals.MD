@@ -7,8 +7,8 @@
 2. **Which statement holistically describes a Lakehouse?**
 - [x] It is the latest data management paradigm that combines elements from data warehouses and data lakes (?)
 - [ ] It is a unified analytics platform used for data management, processing, and analytics (no)
-- [ ] It is an established data management tool that houses primarily unstructured data
-- [ ] It is a relatively new data management system that stores all data in its raw state
+- [ ] It is an established data management tool that houses primarily unstructured data (no)
+- [ ] It is a relatively new data management system that stores all data in its raw state (no)
 
 3. **Which statement is true about commands run from Databricks Databricks Data Science and Engineering Workspace?**
 - [ ] They are executed by clusters
@@ -102,9 +102,9 @@
 
 18. **Which scenario would be best tackled using Databricks SQL?**
 - [ ] Setting up access controls to limit data visibility to a particular group within an organization
-- [x] Replacing data silos with a single home for structured, semi-structured, and unstructured data
+- [ ] Replacing data silos with a single home for structured, semi-structured, and unstructured data (no)
 - [ ] Tracking the results of machine learning experiments
-- [ ] Creating a dashboard that will alert business managers of important changes in daily sales revenue
+- [x] Creating a dashboard that will alert business managers of important changes in daily sales revenue (yes)
 
 19. **One of the key features delivered by the Databricks Lakehouse platform is business intelligence (BI) tool support. What describes this, as it relates to Databricks?**
 - [ ] Tools access Databricks through a driver
@@ -160,13 +160,13 @@
 - [ ] EDSS and OLAP systems
 
 27. **Which statement is true about queries run from Databricks SQL?**
-- [x] They automatically connect to business intelligence tools without the need for additional configuration.
+- [ ] They automatically connect to business intelligence tools without the need for additional configuration. (no)
 - [ ] They pass through Delta Lake to ensure that data being retrieved is relevant for use-cases being studied
 - [ ] They connect directly to an organization’s Delta Lake without using drivers
 - [ ] They are based on two concepts known as experiments and runs
 
 28. **What does Databricks SQL allow data practitioners to do?**
-- [x] Use SQL commands to perform ad-hoc and exploratory data analysis on an organization's data lake
+- [x] Use SQL commands to perform ad-hoc and exploratory data analysis on an organization's data lake (yes)
 - [ ] Build a centralized repository and registry for features, or input variables, for machine learning models
 - [ ] Explore and develop features to include in machine learning model development
 - [ ] View all queries and dashboards created within an organization
