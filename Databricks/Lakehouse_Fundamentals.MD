@@ -83,7 +83,7 @@
 - [ ] Databricks Delta Lake
 
 15. **What is the access point to the Databricks Lakehouse platform for data engineers?**
-- [ ] Databricks SQL 
+- [ ] Databricks SQL (no)
 - [ ] Databricks Data Science and Engineering Workspace
 - [ ] Databricks Machine Learning
 - [ ] Databricks Delta Lake (no)
@@ -113,7 +113,7 @@
 - [ ] Tools that have integrated Databricks support access Databricks directly
 
 20. **What is the access point to the Databricks Lakehouse Platform for machine learning practitioners?**
-- [x] Databricks Machine Learning
+- [x] Databricks Machine Learning (yes)
 - [ ] Databricks SQL
 - [ ] Databricks Delta Lake
 - [ ] Databricks Data Science and Engineering Workspace
@@ -145,7 +145,7 @@
 - [ ] Apache Spark, Delta Lake, Redash
 - [ ] Apache Spark, Apache Airflow, Alchemist
 - [ ] Apache Spark, Apache Airflow, Delta Lake (no)
-- [ ] Apache Spark, Alchemist, MLflow
+- [ ] Apache Spark, Alchemist, MLflow (no)
 
 25. **What describes how the Databricks Lakehouse Platform functions within an organization, at a high level?**
 - [x] A variety of data types land in an organization's open data lake. Delta Lake augments that data lake by providing structure and governance to that data. That data is then used by data practitioners for their data use cases.
