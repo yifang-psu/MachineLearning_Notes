@@ -180,3 +180,9 @@
 
 29. **Delta Lake ensures data governance through Unity Catalog. What does this refer to?**
 - [ ] Enforces data constraints to satisfy business requirements
+
+39. **What defines Delta Lake?**
+- [ ] It is a fine-grained, centralized security model for data lakes across clouds that enables users to share, audit, and manage structured and unstructured data
+- [ ] It is an open protocol for secure real-time exchange of large datasets, which enables secure data sharing across products for the first time
+- [ ] It is the storage format that data is put into that integrates with all data processing engines used within an organization
+- [ ] It helps data engineering teams simplify ETL development and management with declarative pipeline development, automatic data testing, and deep visibility for monitoring and recovery
