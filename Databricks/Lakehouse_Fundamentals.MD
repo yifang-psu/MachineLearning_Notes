@@ -78,7 +78,7 @@
 
 14. **What is the access point to the Databricks Lakehouse platform for business analysts?**
 - [ ] Databricks Machine Learning (no)
-- [ ] Databricks SQL
+- [x] Databricks SQL (yes)
 - [ ] Databricks Data Science and Engineering Workspace
 - [ ] Databricks Delta Lake
 
