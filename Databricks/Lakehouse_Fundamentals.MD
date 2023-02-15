@@ -141,6 +141,9 @@
 
 11. **What describes how the Databricks Lakehouse Platform functions within an organization, at a high level?**
 - [x] A variety of data types land in an organization's open data lake. Delta Lake augments that data lake by providing structure and governance to that data. That data is then used by data practitioners for their data use cases.
+- [ ] Streaming data lands in multiple data warehouses. It is filtered through Delta Lake, which determines which data warehouse the data should be kept in. That data is then used by data practitioners for their data use cases.
+- [ ] Real-time data is captured in Delta Lake and ultimately lands in an organization’s data warehouse. That data is then used by data practitioners for their data use cases.
+- [ ] Structured, semi-structured, and unstructured data are captured in Delta Lake. The data is then passed to a data lake, where it is given structure and munged for quality. That data is then used by data practitioners for their data use
 
 12. **What is the access point to the Databricks Lakehouse platform for business analysts?**
 - [x] Databricks 
