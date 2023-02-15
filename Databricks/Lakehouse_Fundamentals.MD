@@ -5,7 +5,7 @@
 - [ ] Platform administrators, data engineers, and data scientists (no)
 
 2. **Which statement holistically describes a Lakehouse?**
-- [x] It is the latest data management paradigm that combines elements from data warehouses and data lakes (?)
+- [x] It is the latest data management paradigm that combines elements from data warehouses and data lakes (yes)
 - [ ] It is a unified analytics platform used for data management, processing, and analytics (no)
 - [ ] It is an established data management tool that houses primarily unstructured data (no)
 - [ ] It is a relatively new data management system that stores all data in its raw state (no)
@@ -56,7 +56,7 @@
 - [ ] Unity Catalog, Databricks Notebooks, Databricks Repos
 - [ ] Databricks SQL, Apache Spark, Delta Lake
 - [x] Databricks SQL, Databricks Machine Learning, Databricks Data Science and Data Engineering Workspace
-- [ ] Delta Lake, Apache Spark, Databricks Security & Governance
+- [ ] Delta Lake, Apache Spark, Databricks Security & Governance (no)
 
 11. **One of the key features delivered by the Databricks Lakehouse platform is ACID transactions. What describes ACID transactions?**
 - [x] They ensure that data never falls into an inconsistent state because of an operation that only partially completes (yes)
@@ -85,7 +85,7 @@
 15. **What is the access point to the Databricks Lakehouse platform for data engineers?**
 - [ ] Databricks SQL (no)
 - [ ] Databricks Data Science and Engineering Workspace
-- [ ] Databricks Machine Learning
+- [ ] Databricks Machine Learning (no)
 - [ ] Databricks Delta Lake (no)
 
 16. **Which scenario would be best tackled using Data Science and Engineering Workspace?**
