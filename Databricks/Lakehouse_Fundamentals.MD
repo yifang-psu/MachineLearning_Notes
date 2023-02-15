@@ -141,6 +141,7 @@
 - [ ] Delta Lake, Docker, Cloudera
 - [ ] MLflow, Redash, GitLab
 - [ ] Docker, Redash, Cloudera
+- [ ] Apache Spark, Alchemist, MLflow
 
 11. **What describes how the Databricks Lakehouse Platform functions within an organization, at a high level?**
 - [x] A variety of data types land in an organization's open data lake. Delta Lake augments that data lake by providing structure and governance to that data. That data is then used by data practitioners for their data use cases.
@@ -156,9 +157,6 @@
 
 14. **Which statement is true about queries run from Databricks SQL?**
 - [x] They automatically connect to business intelligence tools without the need for additional configuration.
-
-6. **The Databricks Lakehouse Platform is built on top of some of the world's most successful open-source data projects. Which open source projects were originally created by Databricks and come as managed versions in the Databricks Lakehouse Platform?**
-- [x] Apache Spark, Alchemist, MLflow
 
 17. **What does Databricks SQL allow data practitioners to do?**
 - [x] Use SQL commands to perform ad-hoc and exploratory data analysis on an organization's data lake
