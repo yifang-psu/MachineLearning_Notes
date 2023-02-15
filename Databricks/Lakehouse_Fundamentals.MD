@@ -184,3 +184,12 @@
 - [ ] It is an open protocol for secure real-time exchange of large datasets, which enables secure data sharing across products for the first time
 - [x] It is the storage format that data is put into that integrates with all data processing engines used within an organization
 - [ ] It helps data engineering teams simplify ETL development and management with declarative pipeline development, automatic data testing, and deep visibility for monitoring and recovery
+
+
+Apache Spark, Delta Lake, Redash
+
+Apache Spark, Apache Airflow, Alchemist
+
+Apache Spark, Apache Airflow, Delta Lake
+
+Apache Spark, Alchemist, MLflow
