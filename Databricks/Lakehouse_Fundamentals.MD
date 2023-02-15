@@ -107,10 +107,10 @@
 - [x] Creating a dashboard that will alert business managers of important changes in daily sales revenue (yes)
 
 19. **One of the key features delivered by the Databricks Lakehouse platform is business intelligence (BI) tool support. What describes this, as it relates to Databricks?**
-- [ ] Tools access Databricks through a driver
+- [x] Tools access Databricks through a driver (yes)
 - [ ] Data is downloaded from Databricks into an intermediate format, then accessed by the tool
 - [ ] Tools access Databricks through a proxy
-- [ ] Tools that have integrated Databricks support access Databricks directly
+- [ ] Tools that have integrated Databricks support access Databricks directly (no)
 
 20. **What is the access point to the Databricks Lakehouse Platform for machine learning practitioners?**
 - [x] Databricks Machine Learning (yes)
