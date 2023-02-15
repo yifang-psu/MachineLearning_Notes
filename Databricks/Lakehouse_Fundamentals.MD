@@ -142,7 +142,7 @@
 - [ ] MLflow, Redash, GitLab
 - [ ] Docker, Redash, Cloudera
 - [ ] Apache Spark, Alchemist, MLflow
-- [ ] Apache Spark, Delta Lake, Redash
+- [x] Apache Spark, Delta Lake, Redash (yes)
 - [ ] Apache Spark, Apache Airflow, Alchemist
 - [ ] Apache Spark, Apache Airflow, Delta Lake (no)
 - [ ] Apache Spark, Alchemist, MLflow (no)
