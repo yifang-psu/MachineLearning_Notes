@@ -118,9 +118,6 @@
 - [ ] Databricks Delta Lake
 - [ ] Databricks Data Science and Engineering Workspace
 
-2. **What are the primary services that comprise the Databricks Lakehouse Platform?**
-- [x] Databricks SQL, Databricks Machine Learning, Databricks Data Science and Data Engineering Workspace
-
 3. **One of the key features delivered by the Databricks Lakehouse platform is data schema enforcement. What describes data schema enforcement?**
 - [x] It ensures data quality by rejecting writes to a data table that do not match the way that data is structured and organized in that table
 
