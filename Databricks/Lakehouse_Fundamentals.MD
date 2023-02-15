@@ -134,7 +134,9 @@
 - [x] Data that is stored while it's being processed by Databricks is always encrypted
 
 9. **Delta Lake ensures data governance through Unity Catalog. What does this refer to?**
-- [x] Enforces access control lists on clusters, notebooks, tables and views. Enforces data constraints to satisfy business requirements. Enforces access control lists on tables and views.
+- [ ] Enforces access control lists on clusters, notebooks, tables and views. 
+- [ ] Enforces data constraints to satisfy business requirements. 
+- [ ] Enforces access control lists on tables and views.
 
 10. **The Databricks Lakehouse Platform is built on top of some of the world's most successful open-source data projects. Which of the following open source projects were originally created by Databricks and come as managed versions in the Databricks Lakehouse Platform?**
 - [ ] Delta Lake, MLflow, Koalas
@@ -171,9 +173,6 @@
 
 23. **One of the key features delivered by the Databricks Lakehouse platform is that data storage is decoupled from compute. What is a direct benefit of decoupling storage from compute?**
 - [x] The cost of storage and compute are managed separately and can be scaled to accommodate more concurrent users or larger datasets independently
-
-29. **Delta Lake ensures data governance through Unity Catalog. What does this refer to?**
-- [ ] Enforces data constraints to satisfy business requirements
 
 39. **What defines Delta Lake?**
 - [ ] It is a fine-grained, centralized security model for data lakes across clouds that enables users to share, audit, and manage structured and unstructured data
