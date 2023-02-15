@@ -170,7 +170,10 @@
 - [ ] Unstructured and semi-structured
 
 22. **What is true about data stored by Databricks clusters?**
-- [x] It is always encrypted without having to worry about key and certificate management
+- [ ] It is always encrypted without having to worry about key and certificate management
+- [ ] It is not encrypted since it cannot be accessed by anyone on the outside
+- [ ] It is stored in the organization’s cloud account
+- [ ] It requires customer-supplied keys and certificates in order to maximize security
 
 23. **One of the key features delivered by the Databricks Lakehouse platform is that data storage is decoupled from compute. What is a direct benefit of decoupling storage from compute?**
 - [x] The cost of storage and compute are managed separately and can be scaled to accommodate more concurrent users or larger datasets independently
