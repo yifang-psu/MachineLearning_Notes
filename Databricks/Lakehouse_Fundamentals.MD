@@ -125,7 +125,10 @@
 - [ ] An environment called a Lakehouse, which combines elements from data lakes and EDSS system
 
 22. **What is true about an organization's data when they use Databricks?**
-- [x] Data that is stored while it's being processed by Databricks is always encrypted
+- [ ] Data that is stored while it's being processed by Databricks is always encrypted
+- [ ] Data is always stored in their cloud account
+- [ ] Data is always stored in the Databricks cloud account
+- [ ] Organizations must encrypt data to maximize security
 
 23. **Delta Lake ensures data governance through Unity Catalog. What does this refer to?**
 - [ ] Enforces access control lists on clusters, notebooks, tables and views. 
@@ -133,50 +136,50 @@
 - [ ] Enforces access control lists on tables and views.
 - [ ] Enforces access control lists on clusters and notebooks
 
-10. **The Databricks Lakehouse Platform is built on top of some of the world's most successful open-source data projects. Which of the following open source projects were originally created by Databricks and come as managed versions in the Databricks Lakehouse Platform?**
+24. **The Databricks Lakehouse Platform is built on top of some of the world's most successful open-source data projects. Which of the following open source projects were originally created by Databricks and come as managed versions in the Databricks Lakehouse Platform?**
 - [ ] Delta Lake, MLflow, Koalas
 - [ ] Delta Lake, Docker, Cloudera
 - [ ] MLflow, Redash, GitLab
 - [ ] Docker, Redash, Cloudera
 - [ ] Apache Spark, Alchemist, MLflow
 
-11. **What describes how the Databricks Lakehouse Platform functions within an organization, at a high level?**
+25. **What describes how the Databricks Lakehouse Platform functions within an organization, at a high level?**
 - [x] A variety of data types land in an organization's open data lake. Delta Lake augments that data lake by providing structure and governance to that data. That data is then used by data practitioners for their data use cases.
 - [ ] Streaming data lands in multiple data warehouses. It is filtered through Delta Lake, which determines which data warehouse the data should be kept in. That data is then used by data practitioners for their data use cases.
 - [ ] Real-time data is captured in Delta Lake and ultimately lands in an organization’s data warehouse. That data is then used by data practitioners for their data use cases.
 - [ ] Structured, semi-structured, and unstructured data are captured in Delta Lake. The data is then passed to a data lake, where it is given structure and munged for quality. That data is then used by data practitioners for their data use
 
-13. **The Lakehouse was created by combining the most useful elements of which data management strategies?**
+26. **The Lakehouse was created by combining the most useful elements of which data management strategies?**
 - [x] Data lakes and data warehouses
 - [ ] Data lakes and network databases
 - [ ] Data warehouses and EDSS systems
 - [ ] EDSS and OLAP systems
 
-14. **Which statement is true about queries run from Databricks SQL?**
+27. **Which statement is true about queries run from Databricks SQL?**
 - [ ] They automatically connect to business intelligence tools without the need for additional configuration.
 - [ ] They pass through Delta Lake to ensure that data being retrieved is relevant for use-cases being studied
 - [ ] They connect directly to an organization’s Delta Lake without using drivers
 - [ ] They are based on two concepts known as experiments and runs
 
-17. **What does Databricks SQL allow data practitioners to do?**
+28. **What does Databricks SQL allow data practitioners to do?**
 - [x] Use SQL commands to perform ad-hoc and exploratory data analysis on an organization's data lake
 - [ ] Build a centralized repository and registry for features, or input variables, for machine learning models
 - [ ] Explore and develop features to include in machine learning model development
 - [ ] View all queries and dashboards created within an organization
 
-21. **One of the key features delivered by the Databricks Lakehouse platform is support for a wide variety of data. What types of data are supported by Databricks?**
+29. **One of the key features delivered by the Databricks Lakehouse platform is support for a wide variety of data. What types of data are supported by Databricks?**
 - [x] Unstructured, semi-structured, structured
 - [ ] Semi-structured and structured
 - [ ] Unstructured and structured
 - [ ] Unstructured and semi-structured
 
-23. **One of the key features delivered by the Databricks Lakehouse platform is that data storage is decoupled from compute. What is a direct benefit of decoupling storage from compute?**
+30. **One of the key features delivered by the Databricks Lakehouse platform is that data storage is decoupled from compute. What is a direct benefit of decoupling storage from compute?**
 - [x] The cost of storage and compute are managed separately and can be scaled to accommodate more concurrent users or larger datasets independently
 - [ ] Compute costs are decreased since less overhead is expended managing storage
 - [ ] Accessing storage is more performant since it can be distributed more freely
 - [ ] Storage costs are decreased since less overhead is expended storing information related to the compute environment
 
-39. **What defines Delta Lake?**
+31. **What defines Delta Lake?**
 - [ ] It is a fine-grained, centralized security model for data lakes across clouds that enables users to share, audit, and manage structured and unstructured data
 - [ ] It is an open protocol for secure real-time exchange of large datasets, which enables secure data sharing across products for the first time
 - [ ] It is the storage format that data is put into that integrates with all data processing engines used within an organization
