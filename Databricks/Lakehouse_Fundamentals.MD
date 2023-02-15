@@ -13,6 +13,8 @@
 15. **Which statement is true about commands run from Databricks Databricks Data Science and Engineering Workspace?**
 - [ ] They are executed by clusters
 - [ ] They are executed in the Databricks control plane
+- [ ] They are executed by endpoints
+- [ ] They are executed by your web browser
 
 16. **Which scenario would be best tackled using Databricks Machine Learning?**
 - [x] Tracking and comparing the results of machine learning experiments.
