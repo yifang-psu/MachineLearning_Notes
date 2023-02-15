@@ -89,7 +89,7 @@
 24. **Where does Delta Lake fit into the Databricks Lakehouse Platform?**
 - [ ] It runs under the hood of the Databricks Lakehouse Platform to power queries run
 - [ ] It works in an organization's data warehouse to help migrate data into a data lake
-- [ ] It sits on top of an organization's open data lake and provides structure to the many types of data stored within that data lake
+- [x] It sits on top of an organization's open data lake and provides structure to the many types of data stored within that data lake
 - [ ] It works in concert with existing tools to bring auditing and sharing capabilities to data shared across organizations
 
 25. **Where does Databricks Machine Learning fit into the Databricks Lakehouse Platform?**
