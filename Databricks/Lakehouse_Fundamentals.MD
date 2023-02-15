@@ -53,8 +53,8 @@
 - [ ] Databricks SQL
 
 10. **What are the primary services that comprise the Databricks Lakehouse Platform?**
-- [ ] Unity Catalog, Databricks Notebooks, Databricks Repos
-- [ ] Databricks SQL, Apache Spark, Delta Lake
+- [ ] Unity Catalog, Databricks Notebooks, Databricks Repos (no)
+- [ ] Databricks SQL, Apache Spark, Delta Lake (no)
 - [x] Databricks SQL, Databricks Machine Learning, Databricks Data Science and Data Engineering Workspace
 - [ ] Delta Lake, Apache Spark, Databricks Security & Governance (no)
 
