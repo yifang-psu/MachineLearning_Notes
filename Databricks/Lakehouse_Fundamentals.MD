@@ -15,12 +15,18 @@
 
 5. **The Databricks Lakehouse Platform includes tailored user interfaces for which personas?**
 - [x] Data analysts, machine learning practitioners, data engineers
+- [ ] Data architects, data analysts, and IT administrators
+- [ ] Data analysts, data scientists, and database architects
+- [ ] Platform administrators, data engineers, and data scientists
 
 6. **The Databricks Lakehouse Platform is built on top of some of the world's most successful open-source data projects. Which open source projects were originally created by Databricks and come as managed versions in the Databricks Lakehouse Platform?**
 - [x] Apache Spark, Alchemist, MLflow
 
 7. **Which statement holistically describes a Lakehouse?**
--[] It is the latest data management paradigm that combines elements from data warehouses and data lakes
+- [x] It is the latest data management paradigm that combines elements from data warehouses and data lakes
+- [ ] It is a unified analytics platform used for data management, processing, and analytics
+- [ ] It is an established data management tool that houses primarily unstructured data
+- [ ] It is a relatively new data management system that stores all data in its raw state
 
 8. **What is true about an organization's data when they use Databricks?**
 - [x] Data that is stored while it's being processed by Databricks is always encrypted
@@ -137,23 +143,11 @@
 - [ ] Databricks Machine Learning
 - [x] Databricks Delta Lake
 
-33. **Which statement holistically describes a Lakehouse?**
-- [ ] It is the latest data management paradigm that combines elements from data warehouses and data lakes
-- [ ] It is a unified analytics platform used for data management, processing, and analytics
-- [ ] It is an established data management tool that houses primarily unstructured data
-- [ ] It is a relatively new data management system that stores all data in its raw state
-
 34. **Which scenario would be best tackled using Data Science and Engineering Workspace?**
 - [ ] Using Databricks Notebooks to collaborate with team members in a variety of programming languages
 - [ ] Tracking and comparing the results of machine learning experiments
 - [ ] Creating a dashboard that will alert business managers of important changes in daily sales revenue
 - [ ] Setting up access controls to limit data visibility to a particular group within an organization
-
-35. **The Databricks Lakehouse Platform includes tailored user interfaces for which personas?**
-- [ ] Data architects, data analysts, and IT administrators
-- [ ] Data analysts, data scientists, and database architects
-- [ ] Data analysts, machine learning practitioners, data engineers
-- [ ] Platform administrators, data engineers, and data scientists
 
 36. **Delta Lake ensures data quality by enabling an organization to do what?**
 - [ ] Providing access to data to only those who should have access
