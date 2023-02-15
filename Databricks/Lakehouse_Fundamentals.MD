@@ -169,14 +169,11 @@
 - [ ] Unstructured and structured
 - [ ] Unstructured and semi-structured
 
-22. **What is true about data stored by Databricks clusters?**
-- [ ] It is always encrypted without having to worry about key and certificate management
-- [ ] It is not encrypted since it cannot be accessed by anyone on the outside
-- [ ] It is stored in the organization’s cloud account
-- [ ] It requires customer-supplied keys and certificates in order to maximize security
-
 23. **One of the key features delivered by the Databricks Lakehouse platform is that data storage is decoupled from compute. What is a direct benefit of decoupling storage from compute?**
 - [x] The cost of storage and compute are managed separately and can be scaled to accommodate more concurrent users or larger datasets independently
+- [ ] Compute costs are decreased since less overhead is expended managing storage
+- [ ] Accessing storage is more performant since it can be distributed more freely
+- [ ] Storage costs are decreased since less overhead is expended storing information related to the compute environment
 
 39. **What defines Delta Lake?**
 - [ ] It is a fine-grained, centralized security model for data lakes across clouds that enables users to share, audit, and manage structured and unstructured data
