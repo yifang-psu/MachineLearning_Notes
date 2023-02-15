@@ -137,6 +137,7 @@
 - [ ] Enforces access control lists on clusters, notebooks, tables and views. 
 - [ ] Enforces data constraints to satisfy business requirements. 
 - [ ] Enforces access control lists on tables and views.
+- [ ] Enforces access control lists on clusters and notebooks
 
 10. **The Databricks Lakehouse Platform is built on top of some of the world's most successful open-source data projects. Which of the following open source projects were originally created by Databricks and come as managed versions in the Databricks Lakehouse Platform?**
 - [ ] Delta Lake, MLflow, Koalas
@@ -167,6 +168,9 @@
 
 21. **One of the key features delivered by the Databricks Lakehouse platform is support for a wide variety of data. What types of data are supported by Databricks?**
 - [x] Unstructured, semi-structured, structured
+- [ ] Semi-structured and structured
+- [ ] Unstructured and structured
+- [ ] Unstructured and semi-structured
 
 22. **What is true about data stored by Databricks clusters?**
 - [x] It is always encrypted without having to worry about key and certificate management
