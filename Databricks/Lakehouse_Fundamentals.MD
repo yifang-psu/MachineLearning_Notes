@@ -30,7 +30,7 @@
 
 6. **Delta Lake improves data performance through indexing. What does this refer to?**
 - [ ] Ensuring that data can only be accessed by users who should have access
-- [x] Ordering table data to maximize query efficiency
+- [x] Ordering table data to maximize query efficiency (yes)
 - [ ] Structuring queries to act as if they are performed in a single operation
 - [ ] Enforcing data constraints to satisfy business requirements
 
@@ -102,7 +102,7 @@
 
 18. **Which scenario would be best tackled using Databricks SQL?**
 - [ ] Setting up access controls to limit data visibility to a particular group within an organization
-- [ ] Replacing data silos with a single home for structured, semi-structured, and unstructured data
+- [x] Replacing data silos with a single home for structured, semi-structured, and unstructured data
 - [ ] Tracking the results of machine learning experiments
 - [ ] Creating a dashboard that will alert business managers of important changes in daily sales revenue
 
@@ -125,7 +125,7 @@
 - [ ] An environment called a Lakehouse, which combines elements from data lakes and EDSS system
 
 22. **What is true about an organization's data when they use Databricks?**
-- [x] Data that is stored while it's being processed by Databricks is always encrypted
+- [x] Data that is stored while it's being processed by Databricks is always encrypted (yes)
 - [ ] Data is always stored in their cloud account
 - [ ] Data is always stored in the Databricks cloud account
 - [ ] Organizations must encrypt data to maximize security
@@ -137,7 +137,7 @@
 - [ ] Enforces access control lists on clusters and notebooks
 
 24. **The Databricks Lakehouse Platform is built on top of some of the world's most successful open-source data projects. Which of the following open source projects were originally created by Databricks and come as managed versions in the Databricks Lakehouse Platform?**
-- [x] Delta Lake, MLflow, Koalas
+- [x] Delta Lake, MLflow, Koalas (yes)
 - [ ] Delta Lake, Docker, Cloudera
 - [ ] MLflow, Redash, GitLab
 - [ ] Docker, Redash, Cloudera
